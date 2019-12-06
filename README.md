@@ -1,5 +1,5 @@
 # GamePhysics_Collision_Response
- Game Physics project simulating collision and response using Circle Collision and AABB
+## Game Physics project simulating collision and response using Circle Collision and AABB. The project utilises SDL and ImGui.
 
 ### Project 1 - Ball and Brick
 #### The simulation demonstrates circle collision and AABB collision and response using an example of ball and brick. User can control the brick using mouse, hitting the ball with the brick will add some amount of velocity to ball's current velocity. Ball's velocity gradually dissipates as it hits the wall and bounces back
